@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reduanul Karim Junaid</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
-<img  align=“right” alt=“coding”width=“400”src=“https://users”https://www.google.com>
+<img  align=“right” alt=“coding”width=“400”src=“https://users"https://asset.cloudinary.com/ddpz0nrzj/1dbd7918...>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkjunaid2002&label=Profile%20views&color=0e75b6&style=flat" alt="rkjunaid2002" /> </p>
 
 - 📫 How to reach me **rkjunaid2002@gmail.com**
