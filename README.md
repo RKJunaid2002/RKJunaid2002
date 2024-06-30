@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reduanul Karim Junaid</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
-<img  align=“right” alt=“coding”width=“350”src=“https://users”https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fprogrammer&psig=AOvVaw28kjgJJhNsMHEj26_Rqyi9&ust=1719804263895000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjOgKywgocDFQAAAAAdAAAAABAJ
->
+<img  align=“right” alt=“coding”width=“400”src=“https://users”https://www.google.com>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkjunaid2002&label=Profile%20views&color=0e75b6&style=flat" alt="rkjunaid2002" /> </p>
 
 - 📫 How to reach me **rkjunaid2002@gmail.com**
